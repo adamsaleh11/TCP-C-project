@@ -1,0 +1,60 @@
+Ender's Game
+Orson Scott Card
+1985
+0
+Dune
+Frank Herbert
+1965
+3
+Foundation
+Isaac Asimov
+1951
+0
+Hitch Hiker's Guide to the Galaxy
+Douglas Adams
+1979
+0
+1984
+George Orwell
+1949
+0
+Stranger in a Strange Land
+Robert A. Heinlein
+1961
+2
+Farenheit 451
+Ray Bradbury
+1954
+3
+2001:  A Space Odyssey
+Arthur C. Clarke
+1968
+0
+I, Robot
+Isaac Asimov
+1950
+0
+Starship Troopers
+Robert A. Heinlein
+1959
+0
+Do Androids Dream of Electric Sheep?
+Philip K. Dick
+1968
+0
+Neuromancer
+William Gibson
+1984
+3
+Ringworld
+Larry Niven
+1970
+0
+Rendezvous with Rama
+Arthur C. Clarke
+1973
+2
+Hyperion
+Dan Simmons
+1989
+0
